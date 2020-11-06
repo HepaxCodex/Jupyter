@@ -1,9 +1,9 @@
 jupyter serverextension enable --py nbdime --user
 jupyter nbextension install --py nbdime --user
 jupyter nbextension enable --py nbdime
-jupyter lab extension install nbdime-jupyterlab
+jupyter labextension install nbdime-jupyterlab
 
 jupyter serverextension enable --py jupyterlab-git --user
 jupyter nbextension install --py jupyterlab-git --user
 jupyter nbextension enable --py jupyterlab-git
-jupyter lab extension install jupyterlab-git
+jupyter labextension install jupyterlab-git
