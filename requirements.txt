@@ -2,3 +2,4 @@ nbdime
 jupyterlab-git
 matplotlib
 ipympl
+pandas
