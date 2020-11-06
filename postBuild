@@ -1,2 +1,2 @@
-jupyter nbextension install jupyter-git --user
-jupyter nbextension enable jupyter-git
+jupyter nbextension install --user
+jupyter nbextension enable jupyterlab-git
