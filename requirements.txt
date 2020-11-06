@@ -1,4 +1,4 @@
 nbdime
 jupyterlab-git
-mayplotlib
+matplotlib
 
