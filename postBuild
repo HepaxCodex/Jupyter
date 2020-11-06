@@ -1,6 +1,6 @@
 # Install the Following:
 #   jupyterlab-manager
-jupyter labextension install @jupyter-widgets/jupyterlab-manager --dev-build=False --minimize=False
+jupyter labextension install @jupyter-widgets/jupyterlab-manager nbdime --dev-build=False --minimize=False
 
 
 #jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --dev-build=False --minimize=False
