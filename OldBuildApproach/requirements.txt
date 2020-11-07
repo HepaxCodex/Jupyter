@@ -1,4 +1,0 @@
-nbdime
-jupyterlab-git
-matplotlib
-
