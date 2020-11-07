@@ -5,6 +5,7 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager nbdime jupyter-
 
 #jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --dev-build=False --minimize=False
 
+
 #jupyter serverextension enable --py nbdime --user
 #jupyter nbextension install --py nbdime --user
 #jupyter nbextension enable --py nbdime
